@@ -1,0 +1,44 @@
+HEADER: Functional Requirements
+REQ1: The Spotify Record System shall play an album when selected from the user.
+
+REQ2: The Spotify Record System shall play a song when selected from the user.
+
+REQ3: The Spotify Record System shall switch source device upon user execution.
+
+REQ4: The Spotify Record System shall register a song or album to a list upon user execution.
+
+REQX: The Spotify Record System shall login the user upon user request.
+
+HEADER: State when Spotify is being used by the user prior to executution or interreputed
+REQ5: The Spotify Record System shall default to playing a song on the device the user is already playing on.
+
+
+HEADER: User Interface
+REQ6: The Spotify Record System shall display the artwork of the album on a screen when a song or album is being played when the system is used to initiate the song or album.
+
+REQ7: The Spotify Record System shall display the artwork of the album or song playing on a screen when the song or album with a message saying "OFF STATE" when the system was not used to initiate the song or album.
+
+REQ8: The sptofy Record System shall have a button to be able to register "Vinyl Records" to songs.
+
+REQ9: The Spotify Record System shall display a list of all the songs currently registered.
+
+REQ10: The Spotify Record System shall be able to play a song when selected from the list.
+
+REQ11: The Spotify Record System shall list of source devices available to the user distinctly from source devices unavailable to the user.
+
+REQ12: The Spotify Record System shall display a button to allow for the source device of the user to be changed.
+
+REQ13: The Spotify Record System shall allow for the user to switch Spotify accounts.
+
+REQ: The Spotify Record System shall 
+
+
+HEADER: User Cybersecurity
+REQ14: The Spotify Record System shall allow for discreet user authentification.
+
+HEADER: User Requirements
+REQ15: The Spotify Record System shall be initiated by a physical record collection.
+
+REQ5: The Spotify Record System shall have a default list of 10 songs available to the user.
+
+
