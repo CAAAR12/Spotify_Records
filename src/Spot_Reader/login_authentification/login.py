@@ -18,7 +18,6 @@ def login_uzer():
     # spotifyObject = spotipy.Spotify(auth=spotipy.SpotifyOAuth(client_id=clientID,
     #                                                   client_secret=clientSecret,
     #                                                   redirect_uri=redirect_uri))    
-    user_name = spotifyObject.current_user()['id']
 
     # while len(user_input.split()) > 1:
     #     #Display error 
